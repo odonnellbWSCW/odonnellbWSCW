@@ -3,3 +3,4 @@ i dont like writing go watch [this][https://www.youtube.com/watch?v=wOxW_w3qLcc]
 i use arch btw
 
 [https://www.youtube.com/watch?v=wOxW_w3qLcc]: [this]
+![HMS Dreadnought](HMS_Dreadnought.jpg)
